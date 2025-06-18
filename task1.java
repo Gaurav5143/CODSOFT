@@ -1,5 +1,4 @@
-
-package Rohan;
+package Gaurav;
 import java.util.Scanner;
 import java.util.Random;
 public class NumberGuessingGame {
